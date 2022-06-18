@@ -2,7 +2,7 @@
 
 This is where I will be displaying my personal projects for others to view
 
-[My resume](/Software_Engineer_Resume_2022.pdf)
+<a href="Software_Engineer_Resume_2022.pdf" target="_blank">My Resume</a>
 
 ## Markdown
 
