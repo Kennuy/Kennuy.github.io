@@ -1,5 +1,4 @@
-# Welcome to my personal site
-
+# Hi I'm Kennuy
 
 There doesn't seem to be much to show currently. This website will have the purpose of learning front-end development better.
 
