@@ -1,10 +1,13 @@
 # Welcome to my personal site
 
-This is where I will be displaying my personal projects for others to view
 
-<a href="Software_Engineer_Resume_2022.pdf" target="_blank">My Resume</a>
+There doesn't seem to be much to show currently. This website will have the purpose of learning front-end development better.
 
-## Markdown
+This is where I will be displaying my personal projects for others to view as well.
+
+<p>Here is <a href="Software_Engineer_Resume_2022.pdf" target="_blank">my resume</a>.
+
+## Markdown Reference
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
