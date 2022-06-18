@@ -5,7 +5,7 @@ There doesn't seem to be much to show currently. This website will have the purp
 
 This is where I will be displaying my personal projects for others to view as well.
 
-<p>Here is <a href="Software_Engineer_Resume_2022.pdf" target="_blank">my resume</a>.
+<p>Here is <a href="Software_Engineer_Resume_2022.pdf" target="_blank">my resume</a>.</p>
 
 ## Markdown Reference
 
